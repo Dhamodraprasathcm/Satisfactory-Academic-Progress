@@ -1,8 +1,7 @@
 Satisfactory Academic Progress (SAP) is a set of academic performance standards that students must meet to maintain eligibility for certain benefits, such as financial aid or continued enrollment. Here's a brief overview of the key points related to SAP.
 1. GPA Requirements
-
 •	Minimum GPA: Students are usually required to maintain a minimum Grade Point Average (GPA). This standard ensures students are achieving at least a certain level of academic success.
-3. Completion Rate
+2. Completion Rate
 •	Pace of Progress: Students must complete a minimum percentage of the courses they attempt. Typically, this is around 67% of all attempted credits. This helps ensure students are moving towards graduation in a timely manner.
 4. Maximum Time Frame
 •	Credit Hour Limit: SAP policies often set a maximum time frame for completing a program, usually not exceeding 150% of the program’s length. For example, if a degree requires 120 credit hours, students may be allowed up to 180 credit hours to complete it.
